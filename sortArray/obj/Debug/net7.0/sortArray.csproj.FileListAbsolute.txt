@@ -1,0 +1,15 @@
+/Users/marfachornaya/Projects/sortArray/sortArray/bin/Debug/net7.0/sortArray
+/Users/marfachornaya/Projects/sortArray/sortArray/bin/Debug/net7.0/sortArray.deps.json
+/Users/marfachornaya/Projects/sortArray/sortArray/bin/Debug/net7.0/sortArray.runtimeconfig.json
+/Users/marfachornaya/Projects/sortArray/sortArray/bin/Debug/net7.0/sortArray.dll
+/Users/marfachornaya/Projects/sortArray/sortArray/bin/Debug/net7.0/sortArray.pdb
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.csproj.AssemblyReference.cache
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.AssemblyInfoInputs.cache
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.AssemblyInfo.cs
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.csproj.CoreCompileInputs.cache
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.dll
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/refint/sortArray.dll
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.pdb
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/sortArray.genruntimeconfig.cache
+/Users/marfachornaya/Projects/sortArray/sortArray/obj/Debug/net7.0/ref/sortArray.dll
